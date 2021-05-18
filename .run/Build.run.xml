@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Build" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="graphs" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="-i" />
+    <kind value="DIRECTORY" />
+    <package value="graphs" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$" />
+    <option name="run" value="false" />
+    <method v="2" />
+  </configuration>
+</component>
